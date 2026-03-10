@@ -2,7 +2,7 @@
 BookLore app is a mobile client for your self-hosted BookLore server.                                                                                                                                               
 ## Support                                                                                                                                                                            
 
-For issues or feedback, please [open an issue](https://github.com/ila174/booklore-support/issues).
+For issues or feedback, please [open an issue](https://github.com/ila174/booklore-mobile/issues).
 
 ## Privacy Policy
 
